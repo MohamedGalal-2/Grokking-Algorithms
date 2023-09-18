@@ -4,6 +4,7 @@
 #include <stdlib.h>
 
 int Asc_Print_Countdown(int number);
+int Desc_Print_Countdown(int number);
 
 void main(void) {
 	int i;
