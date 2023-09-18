@@ -5,7 +5,6 @@ void greet2(char* name);
 void greet(char* name);
 
 int main() {
-
 	greet("adit");
 
 	return 0;
