@@ -5,9 +5,9 @@ This repository contains the code examples and exercises solutions for the book 
 - [About the Book](#About-the-Book)
 - [Repository Structure](#Repository-Structure)
 - [Getting Started](#Getting-Started)
-- [Contributing](#Contributing)
 - [My Progress](#My-Progress)
 - [Resources](#Resources)
+- [Contributing](#Contributing)
 - [License](#License)
 
 ### About the Book
@@ -43,15 +43,14 @@ To get started with this repository, follow these steps:
   
 4. Run the source files using the your desired IDE and Compiler. 
 
+
+### My Progress
+* Chapter3: Recursion ✔️
+
 ### Contributing
 Contributions to this repository are always welcome. If you find any issues or have ideas for improvement, please open an issue or submit a pull request. Remember to follow the code of conduct when contributing.
 
-### My Progress
-
-* Chapter3: Recursion ✔️
-
 ### Resources
-
 [Book Website](https://www.manning.com/books/grokking-algorithms)
 
 ### License
