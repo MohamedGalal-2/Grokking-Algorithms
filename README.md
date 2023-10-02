@@ -34,11 +34,11 @@ To get started with this repository, follow these steps:
 
 2. Clone the repository using the following command:
 
-  git clone https://github.com/MohamedGalal-2/Grokking-Algorithms.git
+    git clone https://github.com/MohamedGalal-2/Grokking-Algorithms.git
 
 3. Navigate to the desired chapter's directory:
 
-  cd Grokking-Algorithms/ChapterX
+    cd Grokking-Algorithms/ChapterX
   
 4. Run the source files using the your desired IDE and Compiler. 
 
