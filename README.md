@@ -30,9 +30,9 @@ The repository is organized into chapters, with each chapter covering different 
 ### Getting Started
 To get started with this repository, follow these steps:
 
-Install GCC Compiler , if not already installed, from the official Python website.
+1- Install C runtime environment installed on your system such as GCC (GNU Compiler Collection) or Microsoft Visual C++, or any other C development environment based on your operating system.
 
-Clone the repository using the following command:
+2- Clone the repository using the following command:
 
 git clone https://github.com/MohamedGalal-2/Grokking-Algorithms.git
 Install Python, if not already installed, from the official Python website.
