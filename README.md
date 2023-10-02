@@ -8,12 +8,13 @@ This repository contains the code examples and exercises solutions for the book 
 - [Contributing](#Contributing)
 - [My Progress](#My-Progress)
 - [Resources](#Resources)
+- [License](#License)
 
 ### About the Book
 "Grokking Algorithms" is a beginner-friendly guide to understanding algorithms and solving coding problems. It uses a mix of real-world examples, visual representations, and simple explanations to demystify complex algorithms. By the end of the book, readers will have a solid understanding of fundamental algorithms and be able to apply them to solve various types of problems.
 
 ### Repository Structure
-The repository is organized into chapters, with each chapter covering different algorithms or concepts. The code examples and exercise solutions are provided in Python language.
+The repository is organized into chapters, with each chapter covering different algorithms or concepts. The code examples and exercise solutions are provided in C language.
 
 * Chapter1: Introduction to algorithms
 * Chapter2: Selection sort
@@ -52,3 +53,6 @@ Contributions to this repository are always welcome. If you find any issues or h
 ### Resources
 
 [Book Website](https://www.manning.com/books/grokking-algorithms)
+
+### License
+This repository contains my own implementation for Grokking Algorithms code examples and exercise solutions. Feel free to use for any purpose.
