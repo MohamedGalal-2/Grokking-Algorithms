@@ -2,7 +2,7 @@
 This repository contains the code examples and exercises solutions for the book "Grokking Algorithms" by Aditya Y. Bhargava.
 
 ## Table of Contents
-* About the Book
+- [My First heading](#About-the-Book)
 * Repository Structure
 * Getting Started
 * Contributing
