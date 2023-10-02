@@ -7,7 +7,7 @@ This repository contains the code examples and exercises solutions for the book 
 - [Getting Started](#Getting-Started)
 - [Contributing](#Contributing)
 - [My Progress](#My-Progress)
-* Resources
+- [Resources](#Resources)
 
 ### About the Book
 "Grokking Algorithms" is a beginner-friendly guide to understanding algorithms and solving coding problems. It uses a mix of real-world examples, visual representations, and simple explanations to demystify complex algorithms. By the end of the book, readers will have a solid understanding of fundamental algorithms and be able to apply them to solve various types of problems.
