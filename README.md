@@ -6,7 +6,7 @@ This repository contains the code examples and exercises solutions for the book 
 - [Repository Structure](#Repository-Structure)
 - [Getting Started](#Getting-Started)
 - [Contributing](#Contributing)
-- [My Progress ✔️](#My-Progress-✔️)
+- [My Progress ✔️](#My-Progress✔️)
 * Resources
 
 ### About the Book
