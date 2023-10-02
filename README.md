@@ -47,7 +47,7 @@ Contributions to this repository are always welcome. If you find any issues or h
 
 ### My Progress
 
-* Chapter 3 ✔️
+* Chapter3: Recursion ✔️
 
 ### Resources
 
