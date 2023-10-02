@@ -37,10 +37,10 @@ To get started with this repository, follow these steps:
 git clone https://github.com/MohamedGalal-2/Grokking-Algorithms.git
 Install Python, if not already installed, from the official Python website.
 
-Navigate to the desired chapter's directory:
+3. Navigate to the desired chapter's directory:
 
 cd Grokking-Algorithms/ChapterX
-Run the Python files using the your desired IDE and Compiler. 
+Run the source files using the your desired IDE and Compiler. 
 
 ### Contributing
 Contributions to this repository are always welcome. If you find any issues or have ideas for improvement, please open an issue or submit a pull request. Remember to follow the code of conduct when contributing.
