@@ -3,9 +3,9 @@ through it using binary search. What’s the maximum number of
 steps it would take?
 
 <pre>
-* Answer->
-	  Log2(128)
-	  2^7=128
+Answer->
+	Log2(128)
+	2^7=128
 	
 The maximum number ofsteps it would take is 7
 <pre>
