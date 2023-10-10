@@ -47,7 +47,7 @@ To get started with this repository, follow these steps:
 
 3. Navigate to the desired chapter's directory:
 
-        cd Grokking-Algorithms/Chapterx
+        cd Grokking-Algorithms/"Chapter x"
   
 4. Run the source files using the your desired IDE and Compiler. 
 
