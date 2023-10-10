@@ -8,6 +8,7 @@ This repository contains the code examples and exercises solutions for the book 
 - [Repository Structure](#Repository-Structure)
 - [My Progress](#My-Progress)
     - [Chapter 1](https://github.com/MohamedGalal-2/Grokking-Algorithms/tree/main/Chapter%201)
+    - [Chapter 3](https://github.com/MohamedGalal-2/Grokking-Algorithms/tree/main/Chapter%203)
 - [Getting Started](#Getting-Started)
 - [Resources](#Resources)
 - [Contributing](#Contributing)
