@@ -2,15 +2,15 @@
 through it using binary search. What’s the maximum number of
 steps it would take?
 
-Answer->
+* Answer->
 Log2(128)
 2^7=128
 The maximum number ofsteps it would take is 7
-
+--------------------------------------------------------------------
 2. Suppose you double the size of the list. What’s the maximum
 number of steps now?
 
-Answer->
+* Answer->
 	log2(128*2)
 	2^8=256
 	The maximum number ofsteps it would take is =8
