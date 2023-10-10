@@ -1,5 +1,6 @@
 # Grokking-Algorithms
 This repository contains the code examples and exercises solutions for the book "Grokking Algorithms" by Aditya Y. Bhargava.
+![Header image](https://3.bp.blogspot.com/-Kp_0gWDAyps/WfRIt-fGx8I/AAAAAAAAJgY/Yog1ZS9Paz4O61HaG33cK0Fb2-gXo6fmACLcBGAs/w1200-h630-p-k-no-nu/grokking%2Balgorithms.png)
 
 ## Table of Contents
 - [About the Book](#About-the-Book)
