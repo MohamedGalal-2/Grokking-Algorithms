@@ -8,8 +8,7 @@ Answer
 	Log2(128)
 	2^7 = 128	
 The maximum number ofsteps it would take is 7
-<pre>
-
+--------------------------------------------------------------------
 2. Suppose you double the size of the list. What’s the maximum
 number of steps now?
 <pre>
@@ -17,8 +16,7 @@ Answer->
 	log2(128*2)
 	2^8 = 256
 The maximum number ofsteps it would take is 8
-<pre>
-
+--------------------------------------------------------------------
 3. You have a name, and you want to find the person’s phone number
 in the phone book. 
 
@@ -28,14 +26,14 @@ in the phone book.
 			O(n)
 	2. Binary Search=>    
 			O(log2(n))
-
+--------------------------------------------------------------------
 4. You have a phone number, and you want to find the person’s name
 in the phone book. (Hint: You’ll have to search through the whole
 book!)
 
 * Answer=>
 	O(n)
-	
+--------------------------------------------------------------------	
 5. You want to read the numbers of every person in the phone book.
 
 * Answer=>
@@ -47,3 +45,4 @@ answer—you may be surprised!)
 
 * Answer=>
 	O(n)
+<pre>
