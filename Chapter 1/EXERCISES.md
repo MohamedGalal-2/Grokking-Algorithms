@@ -11,11 +11,12 @@ The maximum number ofsteps it would take is 7
 --------------------------------------------------------------------
 2. Suppose you double the size of the list. What’s the maximum
 number of steps now?
-
-* Answer->
+<pre>
+Answer->
 	log2(128*2)
 	2^8 = 256
-	The maximum number ofsteps it would take is =8
+The maximum number ofsteps it would take is 8
+<pre>
 --------------------------------------------------------------------
 3. You have a name, and you want to find the person’s phone number
 in the phone book. 
