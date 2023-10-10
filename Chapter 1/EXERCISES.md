@@ -5,7 +5,7 @@ steps it would take?
 <pre>
 Answer->
 	Log2(128)
-	2^7=128	
+	2^7 = 128	
 The maximum number ofsteps it would take is 7
 <pre>
 --------------------------------------------------------------------
@@ -14,7 +14,7 @@ number of steps now?
 
 * Answer->
 	log2(128*2)
-	2^8=256
+	2^8 = 256
 	The maximum number ofsteps it would take is =8
 --------------------------------------------------------------------
 3. You have a name, and you want to find the person’s phone number
