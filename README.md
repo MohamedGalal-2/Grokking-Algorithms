@@ -33,8 +33,8 @@ The repository is organized into chapters, with each chapter covering different 
 * Chapter11: Where to go next?
 
 ### My Progress
-* Chapter1: Binary Search & Big O Notation ✔️
-* Chapter3: Recursion ✔️
+* Chapter1: Binary Search & Big O Notation 
+* Chapter3: Recursion 
 
 ### Getting Started
 To get started with this repository, follow these steps:
