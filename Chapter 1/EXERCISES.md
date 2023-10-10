@@ -4,9 +4,9 @@ steps it would take?
 
 <pre>
 * Answer->
-Log2(128)
-2^7=128
-The maximum number ofsteps it would take is 7
+	  Log2(128)
+	  2^7=128
+	  The maximum number ofsteps it would take is 7
 <pre>
 --------------------------------------------------------------------
 2. Suppose you double the size of the list. What’s the maximum
