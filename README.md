@@ -20,21 +20,21 @@ This repository contains the code examples and exercises solutions for the book 
 ### Repository Structure
 The repository is organized into chapters, with each chapter covering different algorithms or concepts. The code examples and exercise solutions are provided in C language.
 
-* Chapter1: Introduction to algorithms
-* Chapter2: Selection sort
-* Chapter3: Recursion
-* Chapter4: Quicksort
-* Chapter5: Hash tables
-* Chapter6: Breadth-first search
-* Chapter7: Dijkstra's algorithm
-* Chapter8: Greedy algorithms
-* Chapter9: Dynamic programming
-* Chapter10: K-nearest neighbors
-* Chapter11: Where to go next?
+* Chapter 1: Introduction to algorithms
+* Chapter 2: Selection sort
+* Chapter 3: Recursion
+* Chapter 4: Quicksort
+* Chapter 5: Hash tables
+* Chapter 6: Breadth-first search
+* Chapter 7: Dijkstra's algorithm
+* Chapter 8: Greedy algorithms
+* Chapter 9: Dynamic programming
+* Chapter 10: K-nearest neighbors
+* Chapter 11: Where to go next?
 
 ### My Progress
-* Chapter1: Binary Search & Big O Notation ✔️
-* Chapter3: Recursion ✔️
+* Chapter 1: Binary Search & Big O Notation 
+* Chapter 3: Recursion 
 
 ### Getting Started
 To get started with this repository, follow these steps:
@@ -47,7 +47,7 @@ To get started with this repository, follow these steps:
 
 3. Navigate to the desired chapter's directory:
 
-        cd Grokking-Algorithms/Chapterx
+        cd Grokking-Algorithms/"Chapter x"
   
 4. Run the source files using the your desired IDE and Compiler. 
 
