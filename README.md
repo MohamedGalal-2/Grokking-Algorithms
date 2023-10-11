@@ -8,6 +8,7 @@ This repository contains the code examples and exercises solutions for the book 
 - [Repository Structure](#Repository-Structure)
 - [My Progress](#My-Progress)
     - [Chapter 1](https://github.com/MohamedGalal-2/Grokking-Algorithms/tree/main/Chapter%201)
+    - [Chapter 2](https://github.com/MohamedGalal-2/Grokking-Algorithms/tree/main/Chapter%202)
     - [Chapter 3](https://github.com/MohamedGalal-2/Grokking-Algorithms/tree/main/Chapter%203)
 - [Getting Started](#Getting-Started)
 - [Resources](#Resources)
@@ -33,7 +34,8 @@ The repository is organized into chapters, with each chapter covering different 
 * Chapter 11: Where to go next?
 
 ### My Progress
-* Chapter 1: Binary Search & Big O Notation 
+* Chapter 1: Binary Search & Big O Notation
+* Chapter 2: Data Structures (Arrays & Linked Lists) & Selection Sort
 * Chapter 3: Recursion 
 
 ### Getting Started
