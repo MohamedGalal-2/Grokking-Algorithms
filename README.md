@@ -61,4 +61,4 @@ Contributions to this repository are always welcome. If you find any issues or h
 [Book Website](https://www.manning.com/books/grokking-algorithms)
 
 ### License
-This repository contains my own implementation for Grokking Algorithms code examples and exercise solutions. Feel free to use for any purpose.
+This repository is licensed under the MIT License. Please see the LICENSE file for more information.
